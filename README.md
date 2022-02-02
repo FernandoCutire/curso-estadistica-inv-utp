@@ -123,7 +123,7 @@ En esta sección se muestran los videos pregrabados de las clases.
 4. Contraste de Hipótesis
 
 #### Enlace al video
-[Clase 1: Investigación Cualitativa y Cuantitativa: A-Z](https://utpac-my.sharepoint.com/:v:/g/personal/yaneth_yu_utp_ac_pa/EVzrJntDSnZEo7_Xbo3qArABsAvno-lkGgzdlLSqUwHh1w)
+[Clase 1: Introducción al curso + Investigación Cualitativa y Cuantitativa: A-Z](https://drive.google.com/file/d/1hKGpJdeQDsCillwq2FSKL7K-M9WL4hGY/view?usp=sharing)
 
 ### Clase 2
 
@@ -136,7 +136,7 @@ En esta sección se muestran los videos pregrabados de las clases.
 4. Muestreo por conglomerados
 
 #### Enlace al video
-[Clase 2: Definiendo conceptos de población y muestra + estrategias de muestreo](https://utpac-my.sharepoint.com/personal/gustavo_mascarin_utp_ac_pa/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fgustavo%5Fmascarin%5Futp%5Fac%5Fpa%2FDocuments%2FGrabaciones%2FTALLER%20DE%20ESTADISTICA%20APLICADA%20AL%20AN%C3%81LISIS%20DE%20DATOS%20DE%20UN%20PROYECTO%20DE%20INVESTIGACI%C3%93N%2D20220201%5F075308%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&parent=%2Fpersonal%2Fgustavo%5Fmascarin%5Futp%5Fac%5Fpa%2FDocuments%2FGrabaciones)
+[Clase 2: Definiendo conceptos de población y muestra + estrategias de muestreo](https://drive.google.com/file/d/1g5Mm5xFwpXaGNq2GfvFDN681HhZKxbDU/view?usp=sharing)
 
 ### Clase 3
 > Esta clase no está disponible, probablemente no se ha subido todavía. Por favor revisar este repositorio más tarde.
