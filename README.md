@@ -169,3 +169,8 @@ En esta sección se muestran los videos pregrabados de las clases.
 - Correo para consultas: fernandocutire@gmail.com
 - Página web: fernandocutire.com
   
+[![Hire Me Btn](./assets/HireMe.svg)](https://upwork.com)
+
+
+
+[![Schedule a meeting](./assets/meeting-2.svg)](https://upwork.com)
