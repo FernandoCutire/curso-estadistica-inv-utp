@@ -142,9 +142,12 @@ En esta sección se muestran los videos pregrabados de las clases.
 > Esta clase no está disponible, probablemente no se ha subido todavía. Por favor revisar este repositorio más tarde.
 
 #### Temas Desarrollados
+1. Diseños experimentales
+2. Estadística descriptiva
+3. Estadística inferencial Parte 1
 
 #### Enlace al video
-[Clase 3](https://fernandocutire.com/)
+[Clase 3: Introducción a diseños experimentales + Estadistica descriptiva e inferencial](http://https://utpac-my.sharepoint.com/:v:/r/personal/nathalia_tejedor_utp_ac_pa/Documents/Grabaciones/TALLER%20DE%20ESTADISTICA%20APLICADA%20AL%20AN%C3%81LISIS%20DE%20DATOS%20DE%20UN%20PROYECTO%20DE%20INVESTIGACI%C3%93N-20220202_080432-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n%201.mp4?csf=1&web=1&e=TKvaIk)
 
 ### Clase 4
 > Esta clase no está disponible, probablemente no se ha subido todavía. Por favor revisar este repositorio más tarde.
@@ -169,8 +172,3 @@ En esta sección se muestran los videos pregrabados de las clases.
 - Correo para consultas: fernandocutire@gmail.com
 - Página web: fernandocutire.com
   
-[![Hire Me Btn](./assets/HireMe.svg)](https://upwork.com)
-
-
-
-[![Schedule a meeting](./assets/meeting-2.svg)](https://upwork.com)
