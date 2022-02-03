@@ -23,17 +23,17 @@ Dictado por Dra: [Nathalia Tejedor](http://www.investigadores.utp.ac.pa/investig
     - [Talleres Resueltos](#talleres-resueltos)
     - [Assets](#assets)
   - [Enlaces a Videos de las clases grabadas](#enlaces-a-videos-de-las-clases-grabadas)
-    - [Clase 1](#clase-1)
+    - [Clase 1: Introducción al curso + Hipótesis](#clase-1-introducción-al-curso--hipótesis)
       - [Temas Desarrollados](#temas-desarrollados)
       - [Enlace al video](#enlace-al-video)
-    - [Clase 2](#clase-2)
+    - [Clase 2: Población , Muestra y técnicas de muestreo](#clase-2-población--muestra-y-técnicas-de-muestreo)
       - [Temas Desarrollados](#temas-desarrollados-1)
       - [Enlace al video](#enlace-al-video-1)
-    - [Clase 3](#clase-3)
+    - [Clase 3: Estadística descriptiva e intro a Inferencial](#clase-3-estadística-descriptiva-e-intro-a-inferencial)
       - [Temas Desarrollados](#temas-desarrollados-2)
       - [Enlace al video](#enlace-al-video-2)
-    - [Clase 4](#clase-4)
-      - [Temas Desarrollados](#temas-desarrollados-3)
+    - [Clase 4: Estadística inferencial + Regresión Simple](#clase-4-estadística-inferencial--regresión-simple)
+      - [Temas Desarrollados:](#temas-desarrollados-3)
       - [Enlace al video](#enlace-al-video-3)
     - [Clase 5](#clase-5)
       - [Temas Desarrollados](#temas-desarrollados-4)
@@ -113,7 +113,7 @@ Dentro de la carpeta **assets* está material adicional para documentación de e
 En esta sección se muestran los videos pregrabados de las clases. 
 **Es importante resaltar que debe de haber sido miembro del curso para acceder, ==de lo contario estará bloqueado.==**
 
-### Clase 1
+### Clase 1: Introducción al curso + Hipótesis
 > En esta clase introductoria realizamos temas de introducción a la investigación científica. Tocando temas como las diferencias entre investigación cuantitativa, cualitativa.
 
 #### Temas Desarrollados
@@ -125,7 +125,7 @@ En esta sección se muestran los videos pregrabados de las clases.
 #### Enlace al video
 [Clase 1: Introducción al curso + Investigación Cualitativa y Cuantitativa: A-Z](https://drive.google.com/file/d/1hKGpJdeQDsCillwq2FSKL7K-M9WL4hGY/view?usp=sharing)
 
-### Clase 2
+### Clase 2: Población , Muestra y técnicas de muestreo
 
 > Esta clase revisamos conceptos sobre población y muestra. También las técnicas de muestreo
  
@@ -138,8 +138,8 @@ En esta sección se muestran los videos pregrabados de las clases.
 #### Enlace al video
 [Clase 2: Definiendo conceptos de población y muestra + estrategias de muestreo](https://drive.google.com/file/d/1g5Mm5xFwpXaGNq2GfvFDN681HhZKxbDU/view?usp=sharing)
 
-### Clase 3
-> Esta clase no está disponible, probablemente no se ha subido todavía. Por favor revisar este repositorio más tarde.
+### Clase 3: Estadística descriptiva e intro a Inferencial
+> Esta clase se trató diseños exxperimentales, estadística descriptiva e inferencial. Se desarrollaron talleres en R.
 
 #### Temas Desarrollados
 1. Diseños experimentales
@@ -149,13 +149,15 @@ En esta sección se muestran los videos pregrabados de las clases.
 #### Enlace al video
 [Clase 3: Introducción a diseños experimentales + Estadistica descriptiva e inferencial](http://https://utpac-my.sharepoint.com/:v:/r/personal/nathalia_tejedor_utp_ac_pa/Documents/Grabaciones/TALLER%20DE%20ESTADISTICA%20APLICADA%20AL%20AN%C3%81LISIS%20DE%20DATOS%20DE%20UN%20PROYECTO%20DE%20INVESTIGACI%C3%93N-20220202_080432-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n%201.mp4?csf=1&web=1&e=TKvaIk)
 
-### Clase 4
-> Esta clase no está disponible, probablemente no se ha subido todavía. Por favor revisar este repositorio más tarde.
+### Clase 4: Estadística inferencial + Regresión Simple
+> Entramos de lleno en estadística inferencial, desarrollando en R y vimos ejemplos de regresión simple.
 
-#### Temas Desarrollados
+#### Temas Desarrollados: 
+1. Estadística Inferencial Parte 2
+2. Regresión Simple
 
 #### Enlace al video
-[Clase 4](https://fernandocutire.com/)
+[Clase 4: Ahondando en estadística inferencial + Regresión Simple](https://utpac-my.sharepoint.com/:v:/g/personal/nathalia_tejedor_utp_ac_pa/ESoZHjBRUe1DpgtI_hRjlOcBPSfqCgG6iX5J60L3WEGJKw)
 
 ### Clase 5
 > Esta clase no está disponible, probablemente no se ha subido todavía. Por favor revisar este repositorio más tarde.
