@@ -147,7 +147,7 @@ En esta sección se muestran los videos pregrabados de las clases.
 3. Estadística inferencial Parte 1
 
 #### Enlace al video
-[Clase 3: Introducción a diseños experimentales + Estadistica descriptiva e inferencial](https://drive.google.com/drive/u/0/folders/1tzQ9ifZhGXK63UwCrozCUZklC1WV_dAu)
+[Clase 3: Introducción a diseños experimentales + Estadistica descriptiva e inferencial](https://drive.google.com/file/d/1YE2gQ3kXty7u1Ueq4GFQWqyMtixzGEgc/view?usp=sharing)
 
 ### Clase 4: Estadística inferencial + Regresión Simple
 > Entramos de lleno en estadística inferencial, desarrollando en R y vimos ejemplos de regresión simple.
