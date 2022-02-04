@@ -4,7 +4,7 @@
 
   <img src="assets/estadistica-utp-clases.png" alt="Estadistica Project">
 
-</p
+</p>
 
 
 Dictado por Dra: [Nathalia Tejedor](http://www.investigadores.utp.ac.pa/investigadores/nathalia.tejedor)
@@ -147,7 +147,7 @@ En esta sección se muestran los videos pregrabados de las clases.
 3. Estadística inferencial Parte 1
 
 #### Enlace al video
-[Clase 3: Introducción a diseños experimentales + Estadistica descriptiva e inferencial](http://https://utpac-my.sharepoint.com/:v:/r/personal/nathalia_tejedor_utp_ac_pa/Documents/Grabaciones/TALLER%20DE%20ESTADISTICA%20APLICADA%20AL%20AN%C3%81LISIS%20DE%20DATOS%20DE%20UN%20PROYECTO%20DE%20INVESTIGACI%C3%93N-20220202_080432-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n%201.mp4?csf=1&web=1&e=TKvaIk)
+[Clase 3: Introducción a diseños experimentales + Estadistica descriptiva e inferencial](https://drive.google.com/drive/u/0/folders/1tzQ9ifZhGXK63UwCrozCUZklC1WV_dAu)
 
 ### Clase 4: Estadística inferencial + Regresión Simple
 > Entramos de lleno en estadística inferencial, desarrollando en R y vimos ejemplos de regresión simple.
@@ -157,7 +157,7 @@ En esta sección se muestran los videos pregrabados de las clases.
 2. Regresión Simple
 
 #### Enlace al video
-[Clase 4: Ahondando en estadística inferencial + Regresión Simple](https://utpac-my.sharepoint.com/:v:/g/personal/nathalia_tejedor_utp_ac_pa/ESoZHjBRUe1DpgtI_hRjlOcBPSfqCgG6iX5J60L3WEGJKw)
+[Clase 4: Ahondando en estadística inferencial + Regresión Simple](https://utpac-my.sharepoint.com/:v:/r/personal/nathalia_tejedor_utp_ac_pa/Documents/Grabaciones/TALLER%20DE%20ESTADISTICA%20APLICADA%20AL%20AN%C3%81LISIS%20DE%20DATOS%20DE%20UN%20PROYECTO%20DE%20INVESTIGACI%C3%93N-20220203_080543-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=QffgBO)
 
 ### Clase 5
 > Esta clase no está disponible, probablemente no se ha subido todavía. Por favor revisar este repositorio más tarde.
