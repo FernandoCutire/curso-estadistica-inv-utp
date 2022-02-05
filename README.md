@@ -35,7 +35,7 @@ Dictado por Dra: [Nathalia Tejedor](http://www.investigadores.utp.ac.pa/investig
     - [Clase 4: Estadística inferencial + Regresión Simple](#clase-4-estadística-inferencial--regresión-simple)
       - [Temas Desarrollados:](#temas-desarrollados-3)
       - [Enlace al video](#enlace-al-video-3)
-    - [Clase 5](#clase-5)
+    - [Clase 5: Regresión Múltiple, PCA y Biplot](#clase-5-regresión-múltiple-pca-y-biplot)
       - [Temas Desarrollados](#temas-desarrollados-4)
       - [Enlace al video](#enlace-al-video-4)
   - [Contacto](#contacto)
@@ -168,7 +168,7 @@ En esta sección se muestran los videos pregrabados de las clases.
 - Métodos de Biplot
 
 #### Enlace al video
-[Clase 5: Lo que necesitas saber de Regresión Múltiple, PCA y Biplot (Con código en R)](https://fernandocutire.com/)
+[Clase 5: Lo que necesitas saber de Regresión Múltiple, PCA y Biplot (Con código en R)](https://utpac-my.sharepoint.com/:v:/g/personal/gustavo_mascarin_utp_ac_pa/EcoLRI-PliBKjBmDgBSczSoBoeUmmku_7KiiL83bXYQWGw)
 
 
 
